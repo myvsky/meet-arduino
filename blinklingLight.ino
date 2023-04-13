@@ -9,8 +9,8 @@ void setup() {
 }
 // Looped actions
 void loop() {
-    digitalWrite(13, HIGH); // Turn voltage on for 13 (L) pin
-    delay(500);            // 1000ms (1s) delay
-    digitalWrite(13, LOW); // Turn voltage off for 13 (L) pin
-    delay(500);
+    // Turn voltage on (fade in) for 13 (L) pin
+    for (int brightness = 0; brightness < 255; brightness++) { analogWrite(13, brightness); delay(10); }
+    // Turn voltage off (fade out) for 13 (L) pin
+    for (int brightness = 255; brightness > 0; brightness--) { analogWrite(13, brightness); delay(10); }
 }
