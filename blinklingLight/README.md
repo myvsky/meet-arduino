@@ -1,4 +1,4 @@
 # Blinking Light
 ## Blinking built-in Arduino UNO light (L).
 ## **Demo**
-<img src=".src/demo.mp4">
+<img src=".src/demo.gif">
