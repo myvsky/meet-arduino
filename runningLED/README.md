@@ -18,4 +18,4 @@
 <img src=".src/scheme.png">
 
 ## **Demo**
-<video src=".src/demo.mp4" autoplay controls>
+<video src=".src/demo.mp4" autoplay controls width=20% muted>
