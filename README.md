@@ -5,12 +5,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=4750&pause=100&color=A08BD0&vCenter=true&multiline=true&repeat=false&width=500&height=60&lines=Hey!+There's+some+first+Arduino+projects+by;@myvsky,+you+may+check+it+out.)](https://git.io/typing-svg)
 
-### **Content**
-|N|Name|Desc|Scheme|
-|-|-|-|-|
-|0|[blinkingLight](https://github.com/myvsky/meet-arduino/blob/master/blinklingLight.ino)|Blinking built-in Arduino UNO red light.|None
-|1|[runningLED](https://github.com/myvsky/meet-arduino/blob/master/runningLED.ino)|Multiple lights slow transition (UNDONE)|<img src=#>
-
+### **Table of Contents**
+|N|Name|Desc|
+|-|-|-|
+|0|[blinkingLight](https://github.com/myvsky/meet-arduino/blob/master/blinklingLight/)|Blinking built-in Arduino UNO red light.
+|1|[runningLED](https://github.com/myvsky/meet-arduino/blob/master/runningLED/)|5 LEDs go off and on one by one, creating a running LED effect.
+|2|[blueRedTransition](https://github.com/myvsky/meet-arduino/blob/master/blueRedTransition)|2 LEDs slowly transition from blue to red.
 ### **Reference Book(s)**
 #### • _65 Projects with Arduino_
 <br>
